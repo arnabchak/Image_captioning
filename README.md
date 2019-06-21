@@ -8,3 +8,4 @@ Pretrained ( on Imagenet dataset ) CNN models used for feature extraction :  VGG
 
 RNN model used : LSTM
 
+Word embedding used : glove.6B.300d.txt
